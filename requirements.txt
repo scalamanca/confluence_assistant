@@ -1,7 +1,6 @@
-streamlit
+streamlit==1.36.0
 pinecone
-markdown
+markdown==3.6
 bs4
-pinecone-plugin-assistant
-pinecone-client
-pinecone-client=="4.1.1" 
+pinecone-plugin-assistant==0.1.3
+pinecone-client==4.1.2
