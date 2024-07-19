@@ -2,3 +2,4 @@ streamlit
 pinecone
 markdown
 bs4
+pinecone_plugins
