@@ -4,3 +4,4 @@ markdown
 bs4
 pinecone-plugin-assistant
 pinecone-client
+pinecone-client=="4.1.1" 
