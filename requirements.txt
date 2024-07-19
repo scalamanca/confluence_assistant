@@ -4,4 +4,3 @@ markdown
 bs4
 pinecone-plugin-assistant
 pinecone-client
-pinecone-notebooks
